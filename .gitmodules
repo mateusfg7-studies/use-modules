@@ -1,0 +1,3 @@
+[submodule "use-as-module"]
+	path = use-as-module
+	url = git@github.com:mateusfg7Studies/use-as-module.git
